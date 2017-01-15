@@ -1,4 +1,4 @@
-## Go Programming Books [![Awesome](https://2.bp.blogspot.com/-JHinywRsmiA/WHvYWc1ok9I/AAAAAAAAB2E/8tjNEKjPeT82EiUPMT9LN2XcWMiAHUr3gCLcB/s1600/Golang.png)](https://kalitut.com)
+## Go Programming Books [![Awesome](https://2.bp.blogspot.com/-JHinywRsmiA/WHvYWc1ok9I/AAAAAAAAB2E/8tjNEKjPeT82EiUPMT9LN2XcWMiAHUr3gCLcB/s1600/Golang.png)](http://kalitut.com)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
