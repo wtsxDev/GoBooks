@@ -203,3 +203,9 @@ Resources
 ###[Tutorials: Go by Example](https://gobyexample.com/)
 ###[Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
+Please have a look at
+* [Best Hacking Books](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
+* [Best Reverse Engineering Books](http://www.kalitut.com/2017/01/Best-reverse-engineering-books.html)
+* [Best Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
+* [Best 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
+* [Best Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
